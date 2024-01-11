@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mHFWUvv8aTVG2dWXLuwDv1IW/tmEl1pyF5UZMkhgKgA=",
+  "Source": "spotify-consumer",
+  "BasePath": "_content/spotify-consumer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
